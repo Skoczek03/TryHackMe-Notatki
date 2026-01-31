@@ -19,4 +19,4 @@ Techniques to find files and directories not linked on the main page.
 * **Favicon Database:** Checking the hash of `favicon.ico` against known databases (OWASP database) to identify the framework used.
 
 ### Automated Tools
-* **Gobuster / Dirb:** Tools used for brute-forcing directory names using wordlists (e.g., `common.txt`).
+* **Gobuster / Dirb:** Tools used for brute-forcing directory names using wordlists (e.g. `common.txt`).
