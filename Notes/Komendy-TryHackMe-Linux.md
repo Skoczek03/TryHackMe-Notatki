@@ -9,13 +9,13 @@ Link: https://explainshell.com
 
 ## TryHackMe komendy
 
-Gobuster - narzędzie do brute-forcowania subdomen
+Gobuster - Narzędzie do brute-forcowania subdomen
 - `gobuster dns -d przyklad.com -w /usr/share/wordlists/SecLists/Discovery/DNS/common.txt`
 
-ffuf - 
+ffuf - Służy do szybkiego fuzzingu, czyli odkrywania ukrytych katalogów, plików oraz wirtualnych hostów 
 - `ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -H "Host: FUZZ.acmeitsupport.thm" -u http://MACHINE_IP`
 
-Sublist3r Użycie z konkretnymi portami i wątkami - 
+Sublist3r - Służy do automatycznego wyszukiwania subdomen przy użyciu publicznych źródeł (OSINT) 
 - `python3 sublist3r.py -d przyklad.com -p 80,443 -t 50`
 
 ## Przydatne linki
