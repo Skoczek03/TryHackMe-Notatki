@@ -12,14 +12,13 @@ Link: https://explainshell.com
 Gobuster - narzędzie do brute-forcowania subdomen
 - gobuster dns -d przyklad.com -w /usr/share/wordlists/SecLists/Discovery/DNS/common.txt
 
-ffuf -
+ffuf - 
 - ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -H "Host: FUZZ.acmeitsupport.thm" -u http://MACHINE_IP
 
 ## Przydatne linki
-- Jak znaleść subdomeny danej strony internetowej 
-Link: https://crt.sh
-- Identyfikacja technologi strony www 
-Link: https://www.wappalyzer.com/
+- Jak znaleść subdomeny danej strony internetowej https://crt.sh
+- Identyfikacja technologi strony www https://www.wappalyzer.com/
+- 
 
 
 
