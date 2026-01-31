@@ -1,6 +1,6 @@
 # 🌐 Web Hacking Basics
 
-Notes derived from TryHackMe's "Introduction to Web Hacking" module.
+Notes from TryHackMe's "Introduction to Web Hacking" module.
 
 ## 1. Walking An Application
 Before using automated tools, manually review the application structure.
