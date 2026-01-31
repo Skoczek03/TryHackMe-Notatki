@@ -24,4 +24,4 @@ Informatyka Śledcza i Reagowanie na Incydenty.
 ### Malware Analysis (Analiza Złośliwego Oprogramowania)
 Proces zrozumienia zachowania i celu podejrzanego pliku (malware).
 * **Static Analysis (Analiza statyczna):** Badanie kodu pliku bez jego uruchamiania (np. sprawdzanie sum kontrolnych, ciągów znaków).
-* **Dynamic Analysis (Analiza dynamiczna):** Uruchamianie wirusa w bezpiecznym, odizolowanym środowisku (tzw. sandbox), aby obserwować, co próbuje zrobić (np. z jakimi serwerami się łączy).
+* **Dynamic Analysis (Analiza dynamiczna):** Uruchamianie wirusa w bezpiecznym, odizolowanym środowisku (tzw. sandbox), aby obserwować, co próbuje zrobić (np. z jakimi serwerami się łączy). 
