@@ -16,9 +16,9 @@ ffuf -
 - ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -H "Host: FUZZ.acmeitsupport.thm" -u http://MACHINE_IP
 
 ## Przydatne linki
-Jak znaleść subdomeny danej strony internetowej -
+- Jak znaleść subdomeny danej strony internetowej 
 Link: https://crt.sh
-Identyfikacja technologi strony www -
+- Identyfikacja technologi strony www 
 Link: https://www.wappalyzer.com/
 
 
