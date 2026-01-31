@@ -1,2 +1,2 @@
-# 🌐 TryHackMe-Journey
-Documenting my progress through the Junior Penetration Tester path. Contains networking notes, methodology, and tools.
+# 🌐 TryHackMe-Notatki
+Dokumentacja postępu na ścieżce Junior Penetration Tester. Zawiera notatki, metodologie i narzędzia używane do łamania zabezpieczeń
