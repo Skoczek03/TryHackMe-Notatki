@@ -1,6 +1,6 @@
-## Lista of komend 🐧 i użytecznych linków 
+# Lista of komend <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Penguin" width="50"/>  i użytecznych linków 
 
-## 🐧Linux komendy <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Penguin" width="50"/> 
+## 🐧Linux komendy🐧
 Wszystkie komendy do linuxa
 Link: https://www.mediacollege.com/linux/command/linux-command.html
 
