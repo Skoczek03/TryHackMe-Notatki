@@ -24,7 +24,7 @@ Sublist3r - Służy do automatycznego wyszukiwania subdomen przy użyciu publicz
 ## Przydatne linki
 - Jak znaleść subdomeny danej strony internetowej https://crt.sh
 - Identyfikacja technologi strony www https://www.wappalyzer.com/
-- 
+- łamanie haseł opisanych w hashach https://crackstation.net
 
 
 
