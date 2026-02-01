@@ -12,6 +12,9 @@ Link: https://explainshell.com
 Gobuster - Narzędzie do brute-forcowania subdomen
 - `gobuster dns -d przyklad.com -w /usr/share/wordlists/SecLists/Discovery/DNS/common.txt`
 
+Curl - wypisuje kod źródłowy podanej strony
+- `curl 'http://10.82.161.235/customers/reset?email=robert%40acmeitsupport.thm' -H 'Content-Type: application/x-www-form-urlencoded' -d 'username=robert'`
+
 ffuf - Służy do szybkiego fuzzingu, czyli odkrywania ukrytych katalogów, plików oraz wirtualnych hostów 
 - `ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -H "Host: FUZZ.acmeitsupport.thm" -u http://MACHINE_IP` 
 
