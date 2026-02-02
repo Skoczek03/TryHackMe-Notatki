@@ -1,4 +1,4 @@
-#  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Penguin" width="40"/> Lista użytecznych komend i linków 
+#  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Penguin" width="40"/> Lista użytecznych komend, linków oraz akronimy
 
 ## Linux komendy 🐧
 Wszystkie komendy do Linuxa 
@@ -26,6 +26,17 @@ Sublist3r - Służy do automatycznego wyszukiwania subdomen przy użyciu publicz
 - Identyfikacja technologi strony www https://www.wappalyzer.com/
 - łamanie haseł opisanych w hashach https://crackstation.net
 - dekodowanie base64 na UTF-8 https://www.base64decode.org
+
+## Akronimy
+
+- DoS
+- DDoS
+- LFI
+- RFI
+- XSS
+- HTML
+- RCE
+- 
 
 
 
