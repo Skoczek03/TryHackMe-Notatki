@@ -36,7 +36,9 @@ Sublist3r - Służy do automatycznego wyszukiwania subdomen przy użyciu publicz
 - XSS
 - HTTP
 - RCE
-- 
+- ARP
+- DHCP
+- OSI
 
 
 
